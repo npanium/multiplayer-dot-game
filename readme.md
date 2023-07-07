@@ -1,4 +1,5 @@
-This is a starter project for the [Chris Courses Online Multiplayer Game Tutorial](https://www.youtube.com/watch?v=Wcvqnx14cZA) available on YouTube.
+Original project forked from https://github.com/chriscourses/multiplayer-game-starter
 
-To get started, download this repo and double click `index.html` to see the single-player game we'll base our multiplayer-game off of.
 # multiplayer-dot-game
+
+to start game: nodemon backend.js
